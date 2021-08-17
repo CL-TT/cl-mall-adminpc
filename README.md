@@ -1,4 +1,4 @@
-# cl-mall-adminpc
+# cl-mall-adminpc(每日优鲜后台管理项目)
 
 ## Project setup
 ```
